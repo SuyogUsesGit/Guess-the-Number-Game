@@ -1,0 +1,10 @@
+suyog\gaikwad\service\GameServiceImpl.class
+suyog\gaikwad\util\ViewNames.class
+suyog\gaikwad\util\AttributeNames.class
+suyog\gaikwad\config\WebConfig.class
+suyog\gaikwad\service\GameService.class
+suyog\gaikwad\WebMain.class
+suyog\gaikwad\util\GameMappings.class
+suyog\gaikwad\controller\GameController.class
+suyog\gaikwad\interceptor\RequestInterceptor.class
+suyog\gaikwad\util\thymeleaf\DecoupledLogicSetup.class
